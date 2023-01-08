@@ -4,9 +4,7 @@
 
 [Deployed Link](https://champshop.herokuapp.com/)
 
-![screenshot](https://github.com/GamerNishant/Proshop-Mern/blob/main/uploads/Screen%20Shot%202020-09-29%20at%205.50.52%20PM.png)
-
-
+![screenshot](https://github.com/GamerNishant/Proshop-Mern/blob/main/uploads/Screen%20Shot%202020-09-29%20at%205.50.52%20PM.png, "Home Page")
 
 
 ## Features

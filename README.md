@@ -3,8 +3,30 @@
 > eCommerce platform built with the MERN stack & Redux
 
 [Deployed Link](https://champshop.herokuapp.com/)
+## Screenshots
+Home Page
+![screenshot](https://github.com/GamerNishant/Proshop-Mern/blob/main/uploads/Screen%20Shot%202020-09-29%20at%205.50.52%20PM.png)
 
-![screenshot](https://github.com/GamerNishant/Proshop-Mern/blob/main/uploads/Screen%20Shot%202020-09-29%20at%205.50.52%20PM.png , "Home Page")
+SignUp Page
+![screenshot]()
+
+Admin Orders Page
+![screenshot]()
+
+Admin Products Page
+![screenshot]()
+
+Admin Users Page
+![screenshot]()
+
+Users Shopping Cart Page
+![screenshot]()
+
+Users Product Page
+![screenshot]()
+
+Users MyOrders Page
+![screenshot]()
 
 
 ## Features

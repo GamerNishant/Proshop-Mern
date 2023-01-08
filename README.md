@@ -1,8 +1,9 @@
 # ProShop eCommerce Platform
 
-> eCommerce platform built with the MERN stack & Redux
+> E-Commerce platform built with the MERN stack & Redux
 
 [Deployed Link](https://champshop.herokuapp.com/)
+
 ## Screenshots
 Home Page
 ![screenshot](https://github.com/GamerNishant/Proshop-Mern/blob/main/uploads/Screen%20Shot%202020-09-29%20at%205.50.52%20PM.png)
